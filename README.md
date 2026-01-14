@@ -37,7 +37,26 @@ Hệ thống **quản lý bán nước hoa** được xây dựng nhằm hỗ tr
 ### 💳 Quản lý thanh toán
 ### 📦 Quản lý đơn hàng
 ### 📊 Thống kê & báo cáo
-## 🗂️ Cấu trúc dự án (tham khảo)
+
+## 🗂️ Cấu trúc dự án
+
+perfume-sales-management/
+│
+├── backend/
+│ ├── controller/
+│ ├── service/
+│ ├── repository/
+│ ├── dto/
+│ └── exception/
+│ └── entity/
+│ └── config/
+│
+├── frontend/
+│ ├── components/
+│ ├── pages/
+│ ├── services/
+│ └── layout/
+│ └── assets
 
 
 Khách hàng

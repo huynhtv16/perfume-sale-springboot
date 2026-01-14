@@ -40,24 +40,25 @@ Website **quản lý bán nước hoa** được xây dựng nhằm hỗ trợ q
 
 ## 🗂️ Cấu trúc dự án
 
+```text
 perfume-sales-management/
 │
 ├── backend/
-│ ├── controller/
-│ ├── service/
-│ ├── repository/
-│ ├── dto/
-│ └── exception/
-│ └── entity/
-│ └── config/
+│   ├── controller/
+│   ├── service/
+│   ├── repository/
+│   ├── dto/
+│   ├── entity/
+│   ├── exception/
+│   └── config/
 │
 ├── frontend/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ └── layout/
-│ └── assets
-
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── layout/
+│   └── assets/
+ ```
 
 Khách hàng
 <img width="925" height="536" alt="image" src="https://github.com/user-attachments/assets/0e2575bf-8357-4484-9742-c7602dd3876e" />

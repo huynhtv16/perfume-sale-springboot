@@ -1,7 +1,6 @@
 # 🌸 Website for managing perfume sales 
 
 Website **quản lý bán nước hoa** được xây dựng nhằm hỗ trợ quản lý kho, đơn hàng, thanh toán và báo cáo doanh thu một cách hiệu quả.  
-Đây là **dự án web đầu tiên** của tôi sử dụng **Java Spring Boot (Backend)** và **React + JavaScript (Frontend)**.
 
 ---
 
